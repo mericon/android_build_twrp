@@ -33,8 +33,8 @@
   <project path="device/ti/panda" name="device/ti/panda" remote="aosp" revision="refs/tags/android-4.0.4_r2.1" />
   <project path="external/android-mock" name="platform/external/android-mock" remote="aosp" revision="refs/tags/android-4.0.4_r2.1" />
   <project path="external/antlr" name="platform/external/antlr" remote="aosp" revision="refs/tags/android-4.0.4_r2.1" />
-<project path="device/sony/nozomi" name="mericon/device_nozomi" remote="cm" revision="master" />
-<project path="device/sony/fuji_common" name="CyanogenMod/android_device_sony_fuji-common" remote="cm" revision="ics" />
+<project path="device/sony/nozomi" name="mericon/device_nozomi" remote="http://github.com" revision="master" />
+<project path="device/sony/fuji_common" name="CyanogenMod/android_device_sony_fuji-common" remote="http://github.com" revision="ics" />
   <project path="external/apache-harmony" name="platform/external/apache-harmony" remote="aosp" revision="refs/tags/android-4.0.4_r2.1" />
   <project path="external/apache-http" name="CyanogenMod/android_external_apache-http" />
   <project path="external/apache-xml" name="platform/external/apache-xml" remote="aosp" revision="refs/tags/android-4.0.4_r2.1" />
